@@ -1,1 +1,1 @@
-# Snippets
+# Snippets are fun!
